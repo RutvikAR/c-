@@ -1,0 +1,4 @@
+E:\aatman\c\loop\loop\bin\Debug\loop.exe
+E:\aatman\c\loop\loop\bin\Debug\loop.pdb
+E:\aatman\c\loop\loop\obj\x86\Debug\loop.exe
+E:\aatman\c\loop\loop\obj\x86\Debug\loop.pdb
