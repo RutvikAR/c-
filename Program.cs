@@ -1,25 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Windows.Forms;
 
-namespace ConsoleApplication4
+namespace test
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            byte b1 = 255;
-         //   byte b2 = -128;// compile-time error: Constant value '-128' cannot be converted to a 'byte'
-            sbyte sb1 = -128;
-            sbyte sb2 = 127;
-
-            Console.WriteLine(Byte.MaxValue);//255
-            Console.WriteLine(Byte.MinValue);//0
-            Console.WriteLine(SByte.MaxValue);//127
-            Console.WriteLine(SByte.MinValue);//-128
-            Console.ReadLine();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
-       
     }
 }
