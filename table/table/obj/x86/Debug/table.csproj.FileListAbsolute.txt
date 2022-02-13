@@ -1,0 +1,10 @@
+E:\rutvik\C#\table\table\obj\x86\Debug\table.Form1.resources
+E:\rutvik\C#\table\table\obj\x86\Debug\table.Properties.Resources.resources
+E:\rutvik\C#\table\table\obj\x86\Debug\table.csproj.GenerateResource.Cache
+E:\rutvik\C#\table\table\bin\Debug\Database1.mdf
+E:\rutvik\C#\table\table\bin\Debug\Database1_log.ldf
+E:\rutvik\C#\table\table\bin\Debug\table.exe
+E:\rutvik\C#\table\table\bin\Debug\table.pdb
+E:\rutvik\C#\table\table\obj\x86\Debug\table.exe
+E:\rutvik\C#\table\table\obj\x86\Debug\table.pdb
+E:\rutvik\C#\table\table\obj\x86\Debug\table.csprojResolveAssemblyReference.cache

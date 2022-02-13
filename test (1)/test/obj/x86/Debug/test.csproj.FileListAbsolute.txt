@@ -1,0 +1,9 @@
+E:\rutvik\test\test\bin\Debug\test.exe
+E:\rutvik\test\test\bin\Debug\test.pdb
+E:\rutvik\test\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\rutvik\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+E:\rutvik\test\test\obj\x86\Debug\test.exe
+E:\rutvik\test\test\obj\x86\Debug\test.pdb
+E:\rutvik\test\test\obj\x86\Debug\test.Form1.resources
+E:\rutvik\test\test\bin\Debug\Database1.mdf
+E:\rutvik\test\test\bin\Debug\Database1_log.ldf
